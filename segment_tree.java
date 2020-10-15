@@ -1,0 +1,3 @@
+class segment_tree{
+    
+}
